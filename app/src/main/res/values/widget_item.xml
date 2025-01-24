@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="simple_items">
+        <item>按钮(Button)</item>
+        <item>开关(Switch)</item>
+    </string-array>
+</resources>

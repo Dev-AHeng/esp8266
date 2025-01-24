@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <!--    <item-->
+    <!--        android:id="@+id/edit"-->
+    <!--        android:contentDescription="@string/content_description_search"-->
+    <!--        android:title="@string/edit"-->
+    <!--        app:showAsAction="ifRoom" />-->
+
+    <!--    <item-->
+    <!--        android:id="@+id/favorite"-->
+    <!--        android:contentDescription="@string/content_description_favorite"-->
+    <!--        android:icon="@drawable/baseline_favorite_24"-->
+    <!--        android:title="@string/favorite"-->
+    <!--        app:showAsAction="ifRoom" />-->
+
+    <item
+        android:id="@+id/getConfig"
+        android:contentDescription="@string/edit_line_config"
+        android:icon="@drawable/baseline_edit_24"
+        android:title="@string/config"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/settings"
+        android:contentDescription="@string/settings"
+        android:title="@string/settings"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/clearLog"
+        android:contentDescription="@string/clearLog"
+        android:title="@string/clearLog"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/about"
+        android:contentDescription="@string/about"
+        android:title="@string/about"
+        app:showAsAction="never"/>
+
+
+</menu>

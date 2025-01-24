@@ -1,0 +1,4 @@
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="setting_activity_slider_trackHeight">12dp</dimen>
+</resources>

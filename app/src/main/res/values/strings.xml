@@ -1,0 +1,104 @@
+<resources>
+    <string name="app_name">esp8266-test</string>
+    <string name="test">test</string>
+    <string name="button">Button</string>
+    <string name="content_description_search">搜索</string>
+    <string name="content_description_favorite">最喜欢的</string>
+    <string name="content_description_more">更多</string>
+    <string name="more">更多</string>
+    <string name="favorite">喜欢</string>
+    <string name="edit">编辑</string>
+    <string name="page_title">物联网</string>
+    <string name="productkey">productKey</string>
+    <string name="deviceName">deviceName</string>
+    <string name="deviceSecret">deviceSecret</string>
+    <string name="productKey">productKey</string>
+    <string name="next_page">下一页</string>
+    <string name="previous_page">上一页</string>
+    <string name="config">配置</string>
+    <string name="edit_line_config">编辑连接配置</string>
+    <string name="about">关于</string>
+    <string name="save_config">保存配置</string>
+    <string name="deviceNameContent">WeChat</string>
+    <string name="deviceSecretContent">c46c4c7fbc9de88c9a281a6b59b14bed</string>
+    <string name="productKeyContent">k1mfojidyyg</string>
+    <string name="connect">连接</string>
+    <string name="disconnect">断开</string>
+    <string name="sendData">发送数据</string>
+    <string name="upData">要上传的数据</string>
+    <string name="showData">回调信息</string>
+    <string name="elmType">控件类型</string>
+    <string name="offInstruction">关指令</string>
+    <string name="onInstruction">开指令</string>
+    <string name="buttonInstruction">指令</string>
+    <string name="widgetName">控件名称</string>
+    <string name="gridViewModelButton">开关</string>
+    <string name="gridViewModelSwitch">开关</string>
+    <string name="notInstruction">还没有指令哦!!!</string>
+    <string name="addInstruction">添加指令</string>
+    <string name="instruction">指令</string>
+    <string name="realTimeData">实时数据</string>
+    <string name="addRealTimeData">添加实时数据</string>
+    <string name="dynamic_data_placeholder">动态数据占位符</string>
+    <string name="prefix">前缀</string>
+    <string name="placeholder">中间</string>
+    <string name="suffix">后缀</string>
+    <string name="comment">备注</string>
+    <string name="complete">完成</string>
+    <string name="notAdd">啥都没添加!!!</string>
+    <string name="clientId">ClientId</string>
+    <string name="default_clientId">iot-06z00ctnl8l2jzz.mqtt.iothub.aliyuncs.com:1883</string>
+    <string name="publishTopic">发布的topic</string>
+    <string name="default_publishTopic">/k1mfojidyyg/WeChat/user/WeChat</string>
+    <string name="subscribeTopic">订阅的topic</string>
+    <string name="default_subscribeTopic">/k1mfojidyyg/WeChat/user/get</string>
+    <string name="navigation_drawer_open">展开</string>
+    <string name="navigation_drawer_close">收起</string>
+    <string name="em">我方</string>
+    <string name="he">对方</string>
+    <string name="Instruction">指令</string>
+    <string name="send">发送</string>
+    <string name="sendHardware">发给机器的指令</string>
+    <string name="title_activity_settings">SettingsActivity
+    </string>
+
+    <!-- Preference Titles -->
+    <string name="messages_header">Messages
+    </string>
+    <string name="sync_header">Sync
+    </string>
+
+    <!-- Messages Preferences -->
+    <string name="signature_title">Your signature
+    </string>
+    <string name="reply_title">Default reply action
+    </string>
+
+    <!-- Sync Preferences -->
+    <string name="sync_title">Sync email periodically
+    </string>
+    <string name="attachment_title">Download incoming attachments
+    </string>
+    <string name="attachment_summary_on">Automatically download attachments for incoming emails
+    </string>
+    <string name="attachment_summary_off">Only download attachments when manually requested
+    </string>
+    <string name="settings">设置</string>
+    <string name="clearLog">清空日志</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment
+    </string>
+    <string name="second_fragment_label">Second Fragment
+    </string>
+    <string name="next">Next
+    </string>
+    <string name="previous">Previous
+    </string>
+    <string name="prefix_slider_desc">前缀大小</string>
+    <string name="showBorder">控件范围边框</string>
+    <string name="placeholder_slider_desc">数据大小</string>
+    <string name="suffix_slider_desc">后缀大小</string>
+    <string name="date_slider_desc">时间大小</string>
+    <string name="resetButton">恢复到默认</string>
+    <string name="gridAmount_slider_desc">卡片列数</string>
+</resources>

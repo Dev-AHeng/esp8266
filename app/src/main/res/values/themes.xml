@@ -1,0 +1,41 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.Esp8266test" parent="Theme.Material3.Light.NoActionBar">
+        <!-- 主品牌颜色，通常用于应用的主要UI元素，如工具栏背景。 -->
+        <!--        <item name="colorPrimary">@color/purple_500</item>-->
+        <!-- 主品牌颜色的变体，用于更深的阴影或强调效果。 -->
+        <!--        <item name="colorPrimaryVariant">@color/purple_700</item>-->
+        <!-- 在主品牌颜色背景上的文字颜色，确保文字清晰可见。 -->
+        <item name="colorOnPrimary">@color/white</item>
+
+        <!-- 次品牌颜色，用于辅助UI元素或强调不同的部分。 -->
+        <item name="colorSecondary">@color/teal_200</item>
+        <!-- 次品牌颜色的变体，用于更深的阴影或强调效果。 -->
+        <item name="colorSecondaryVariant">@color/teal_700</item>
+        <!-- 在次品牌颜色背景上的文字颜色，确保文字清晰可见。 -->
+        <item name="colorOnSecondary">@color/black</item>
+
+        <!-- 状态栏颜色，设置为与主品牌颜色的变体相同，以实现一致的视觉效果。 -->
+        <!-- 注意：这里使用了属性引用（?attr/）来引用之前定义的颜色。 -->
+        <item name="android:statusBarColor">@color/Surface</item>
+
+        <item name="colorSurface">@color/Surface</item>
+        <item name="colorOnSurface">@color/shrine_pink_900</item>
+        <item name="android:windowLightStatusBar">true</item>
+
+    </style>
+
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Esp8266test" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+    </style>
+
+
+    <color name="On_Surface">#1D1B20</color>
+    <color name="On_Surface_Variant">#49454F</color>
+    <color name="text_border">#000000</color>
+
+    <color name="Surface">#FEF7FF</color>
+
+</resources>
